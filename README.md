@@ -1,4 +1,4 @@
-The Scrotum Lab / Késako Pacemaker board Rev 2.0 is an adaptation made to run a x0x heart on a 4U Serge panel using bananas and powered by -12V/0V/+12V.
+The Scrotum Lab / Késako Pacemaker board Rev 2.0 is an adaptation made to run a x0x heart on a 4U Serge panel using bananas. Tested with -12V/0V/+12V power.
 No wiring for panel components required.
 
 The x0x heart board I used was bought at www.synthcube.com.
